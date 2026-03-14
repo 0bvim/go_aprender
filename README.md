@@ -22,9 +22,15 @@ Organizamos o código de forma incremental:
 
 02-fundamentos/: Variáveis, tipos e lógica inicial.
 
-___
+## 🛠️ Ferramentas Essenciais
+[Go Playground](https://go.dev/play/) - Nosso laboratório inicial.
 
-🤝 Contato
+[Documentação Oficial](https://go.dev/) - A fonte da verdade.
+
+## 💡 Mentalidade
+Aprender a programar é um processo de persistência. Como costumo dizer nas aulas: "Gota a gota, o balde enche". Não se preocupe com a síndrome do impostor; o objetivo aqui é aprender a encontrar as respostas e evoluir um pouco a cada dia.
+
+## 🤝 Contato
 Ficou com dúvida?
 
 Abra uma Issue aqui no repositório.
